@@ -1,7 +1,7 @@
 from tkinter import *
 import tkinter.messagebox
-from Contest.contest_upcoming import *
-from User.user_info import *
+from Contest_API.contest_upcoming import *
+from User_API.user_info import *
 
 Key = ""
 Handle = ""

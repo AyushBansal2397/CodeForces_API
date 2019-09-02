@@ -1,7 +1,6 @@
 import requests, json
-from User.user_friends import *
-from User.user_info import *
-from User.user_rating import *
+from User_API.user_friends import *
+from User_API.user_rating import *
 from tkinter import *
 
 # returns user info
